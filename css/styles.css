@@ -28,19 +28,19 @@ p{
     
 }
 hr{
-    border: dotted #EAF6F6 6px;
+    border: dotted #FFAFAF 6px;
     border-bottom: none;
-    width: 10%;
+    width: 5%;
     margin: 100px auto;
 }
 a{
-    color: #F6D7A7;
+    color: #40514E;
     font-family:'Montserrat', sans-serif ;
     margin: 10px 20px;
     text-decoration: none;
 }
 a:hover{
-    color: #EAF6F6;
+    color: #e99080;
 }
 .top-container{
     background-color: #e4f9f5 ;
